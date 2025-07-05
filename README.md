@@ -1,4 +1,4 @@
 # Netflix_Data_Pipeline
 
 
-![]('1.png')
+![Output](1.png)
